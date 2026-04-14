@@ -92,5 +92,4 @@ const styles = StyleSheet.create({
 });
 
 export default TabIcon;
-
-// minute 57:21
+  
