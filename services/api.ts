@@ -27,4 +27,3 @@ export const fetchMovies = async ({query}:{query: string}) => {
 
 
 
-// 1hr 19 minutes
