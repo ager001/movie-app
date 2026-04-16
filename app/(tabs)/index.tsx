@@ -82,3 +82,6 @@ export default function Index() {
     </View>
   );
 }
+
+
+// I hr 46 minutes
