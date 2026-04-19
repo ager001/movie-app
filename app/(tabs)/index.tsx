@@ -84,4 +84,3 @@ export default function Index() {
 }
 
 
-// I hr 46 minutes
